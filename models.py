@@ -12,7 +12,6 @@ class trans(str,Enum):
 
 
 class Car(BaseModel):   
-    id: optional[UUID] = uuid4
     name: str
     engine: str
     Bhp: int
