@@ -1,4 +1,7 @@
 from pydantic import BaseModel
+from typing import Optional
+from uuid import UUID, uuid4
+from enum import Enum
 
 class trans(str,Enum):
     manual = "manual"
