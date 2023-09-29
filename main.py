@@ -19,7 +19,7 @@ db: List[Car] = [
 
 @app.get("/")
 async def root():
-    return {"message": "hi World"} 
+    return {"message": "welcome to the car api v0.0.1 by @yakatyansh"} 
 
 
 @app.get("/api/v1/cars")
