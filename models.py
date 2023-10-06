@@ -21,4 +21,5 @@ class Car(BaseModel):
     fuel_type: str
     transmission: trans
     country: str
+    number_of_cylinders: int
     
