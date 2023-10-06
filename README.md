@@ -3,4 +3,4 @@ This project is an amalgamation of my affliction with cars and interest in softw
 
 ## Contributors
 
-Yash Katyan
+Yash Katyan - Btech ELC @ amrita 
